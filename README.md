@@ -1,5 +1,5 @@
 # midi channel converter
-Este script detecta automaticamente o diretório onde está localizado e processa todos os arquivos MIDI presentes nesse mesmo local:
+Este script detecta automaticamente o diretório onde está localizado e processa todos os arquivos MIDI presentes nesse mesmo local: modificanto o canal midi para 10, ideal para arquivos midi de bateria.
 
 ## Como usar
 
